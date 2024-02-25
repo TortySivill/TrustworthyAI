@@ -1,4 +1,4 @@
-e# TrustworthyAI
+# TrustworthyAI
 
 ![Trustworthy AI](TrustworthyAItitle.png)
 
@@ -10,7 +10,7 @@ My name is Torty Sivill, I've recently completed a PhD in Explainable AI and car
 
 Artificial Intelligence (AI) refers to the ability of a machine to recreate human behaviour. Machine Learning (which describes algorithms like neaural networks) is a subset of AI. Machine Learning replicates the human ability to learn from experience. A Neural Network algorithm constructs a network of nodes whose connections act like the nuerons in our brain.  
 
-![AI Neural Network](TrustworthyAINeuralNetwork.jpeg)
+![AI Neural Network](TrustworthyAINeuralNetwork.jpg)
 
 When we ask our algorithm to perfom a task, distinguish between images of cats and dogs for example,  we feed a large number of examples into the network which uses different layers of nodes to learn the patterns and rules which help to differentiate the images. The network may use the first layer of nodes to learn that cats have whiskers but dogs don't. Nowadays, neural networks often have millions, even billions of internal nodes! This allows them to learn more complex behaviour than simply identifying cats and dogs. 
 
@@ -18,7 +18,7 @@ When we ask our algorithm to perfom a task, distinguish between images of cats a
 
 As AI becomes increasingly complex it can be used to improve the lives of humans. This includes automating decision making processes such as identifying cancerous cells from radiography images. However, just as humans can be flawed in their decision making, AI has also been known to get it wrong. As AI requires a large number of real world examples to learn from it is vulnerable to learn harmful societal biases inherent in this data. For example, the ChatGPT example below shows how the AI has learnt that men have historically been more likely to be builders than women and has used that bias to inform its decision making.. 
 
-![AI bias](TrustworthyAIbias.jpeg)
+![AI bias](TrustworthyAIbias.jpg)
 
 Unfortunately, as AI is now so complex, humans have no way of knowing what kind of patterns the AI is learning to make its decisions. We would never know for example if the neural network was indeed using whiskers to differentiate between cats and dogs. As we are unable to validate the behaviour of AI, we cannot trust its decision making. 
 
@@ -34,6 +34,6 @@ Trustworthy AI combines multi-disciplinary approaches to validating the behaviou
 
 When AI is developed it goes through a development pipeline. The intitial expectation of the AI is defined at the problem specification stage, data is collected and analyses and requirements of the system are specified. A selection of models are then DEVELOPED which match the probem specification and are EVALUATED to inform the model selection. After the model has been validated against problem specification, the model is then DEPLOYED into the wild. 
 
-![AI Pipeline](TrustworthyAIpipeline.jpg)
+![AI Pipeline](TrustworthyAIpipeline.png)
 
 Untrustworthy behaviour of AI can manifest at any stage of the model development pipeline, collecting insufficient data, or using the wrong metrics for evaluation, for example. In this repo we develop the technical methodologies which identify and mitigate against untrustworthy AI at every stage of the model development pipeline. 
