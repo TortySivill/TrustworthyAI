@@ -15,4 +15,4 @@ Trustworthy AI is socio-technical, ensuring trustworthy AI means we must conside
 
 ## What isn't Trustworthy AI 
 
-
+![AI Pipeline](TrustworthyAIpipeline.jpg)
