@@ -1,5 +1,7 @@
 # TrustworthyAI
 
+![Trustworthy AI](TrustworthyAItitle.png)
+
 ## Who Am I? 
 
 My name is Torty Sivill, I've recently completed a PhD in Explainable AI which has motivated me to try and communicate my research to the wider community. This repo is intended to generate discussion on Trustworthy AI: What it is? Why shoudl we care about it? It's designed to be accessible by all, your only pre-requisite is an interest in potential future AI risk!
